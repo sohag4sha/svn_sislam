@@ -1,0 +1,14 @@
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\bin\Debug\HelloWorld.exe
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.exe
+D:\SVN_UTS\IslamTests\trunk\CSharpCookbook\ProgrammareConCSharp 7\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\bin\Debug\HelloWorld.exe
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.exe
+D:\SVN_UTS\svn_sislam\Programmare con CSharp 7\HelloWorld\obj\Debug\HelloWorld.pdb
